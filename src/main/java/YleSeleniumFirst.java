@@ -11,7 +11,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class YleSeleniumMain {
+public class YleSeleniumFirst {
     public static void main(String[] args) throws InterruptedException, ClassNotFoundException, SQLException {
         System.setProperty("webdriver.gecko.driver", "\\gecko\\geckodriver.exe");
 
